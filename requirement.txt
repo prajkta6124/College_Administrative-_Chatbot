@@ -1,0 +1,8 @@
+Flask
+flask-cors
+langchain
+langchain-community
+langchain-core==0.1.35
+langchain-google-genai==0.0.6
+pypdf
+faiss-cpu
